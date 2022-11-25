@@ -4,7 +4,9 @@
 
 export const environment = {
   production: false,
-  apiKey: '  '
+  apiKey: 'dccd7b0592e04e6d8da2721f3f4f9bfb',
+  baseUrl: 'https://rawg.io/',
+  images: 'https://rawg.io/',
 };
 
 /*
